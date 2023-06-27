@@ -17,7 +17,7 @@ this.location = "<%=request.getContextPath()%>"+"/EmpAllServlet.do";
 }
 </script>
 <!-- jsp:useBean id="obj" class="com.test.testClass11" />-->
-<form id="form1" name="form1"  action="javascript:callOnLoad11();" >
+<form id="formIndex1" name="formIndex1"  action="javascript:callOnLoad11();" >
 <input type="text" name="input1" value="welcome to >>>"/>
 <a href="#" onclick="javascript:callOnLoad11();">Employee Details</a>
 </form>
