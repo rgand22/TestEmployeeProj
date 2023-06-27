@@ -21,6 +21,5 @@ this.location = "<%=request.getContextPath()%>"+"/EmpAllServlet.do";
 <input type="text" name="input1" value="welcome to >>>"/>
 <a href="#" onclick="javascript:callOnLoad11();">Employee Details</a>
 </form>
-
 </body>
 </html>
